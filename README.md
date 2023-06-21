@@ -6,5 +6,7 @@ Mechatronics graduation project code base & stuff.
 * Note that, All functions except the interface are written very sexy and clear. -MK
 
 
-Main UI frame
+Main UI frame:
+
+
   ![image](https://github.com/denizberkin/grad-project-without-database/assets/63101810/ffa8bfba-bb76-4b64-b6b5-afc24d8ffbf6)
